@@ -17,7 +17,7 @@ description = \
 
 requires = [
     "alembic-1.7+<1.8",
-    "boost-1.61+<1.62"
+    "boost-1.61+<1.62",
     "cmake-3+",
     "gcc-6.3.1",
     "numpy-1.12.1",
